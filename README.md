@@ -52,9 +52,3 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff00f2&height=120&section=footer"/>
-
-
-
-https://github.com/Francisco-GasparIII/Francisco-GasparIII/blob/output/github-contribution-grid-snake.gif
-
-![snake gif](https://github.com/Francisco-GasparIII/Francisco-GasparIII/blob/output/github-contribution-grid-snake.gif)
