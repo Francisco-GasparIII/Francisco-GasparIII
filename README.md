@@ -40,7 +40,7 @@
  
 <div> 
   <a href="http://frank3.atwebpages.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-timeGradient?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-a3ccf3?style=for-the-badge&logo=vercel&logoColor=ff00f2" target="_blank">
 </a>
   <a href="https://instagram.com/franciscomungongodiasgaspar" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
