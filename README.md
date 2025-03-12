@@ -1,7 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff00f2&height=120&section=header"/>
+
+<img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Francisco%20Gaspar%203º&fontSize=70&fontAlignY=35&desc=Software%20Developer%20%20%20&descAlignY=50' />
+
+  
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff00f2&height=120&section=header"/> -->
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00f2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Francisco+Gaspar+3º;I'm+Fullstack+Developer;Be+Welcome+to+my+perfil+👋!)](https://git.io/typing-svg)
-
+<!--
 ##
 
 <div align="center">  
@@ -14,7 +18,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Francisco-GasparIII&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
+-->
 ##
 
 <div style="display: inline_block"><br>
@@ -35,6 +39,9 @@
 ##
  
 <div> 
+  <a href="http://frank3.atwebpages.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-timeGradient?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
+</a>
   <a href="https://instagram.com/franciscomungongodiasgaspar" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/franciscomungongodiasgaspar" target="_blank">
