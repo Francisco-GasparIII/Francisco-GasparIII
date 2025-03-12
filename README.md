@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff00f2&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00f2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Francisco+Gaspar+3º;I'm+Front+End+Developer;Be+Welcome+to+my+perfil+👋!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00f2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Francisco+Gaspar+3º;I'm+Fullstack+Developer;Be+Welcome+to+my+perfil+👋!)](https://git.io/typing-svg)
 
 ##
 
@@ -30,8 +30,6 @@
   <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/database/database-original.svg">
 </div>
 
 ##
