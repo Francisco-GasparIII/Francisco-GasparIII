@@ -55,11 +55,13 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<!--
 ##
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Francisco-GasparIII}/count.svg" /></p> 
 <br></div>
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff00f2&height=120&section=footer"/>
